@@ -17,7 +17,9 @@ I have a separate [repo](https://github.com/morauszkia/coding-notes) for my [Cod
 
 ## Table of Contents
 
-- Christian Notes: Bible, Rosary, Prayer
+- Christian Notes: Bible, Rosary, Prayer, Apologetics
 - Books
-- Fitness & Health
-- Wellness & Happyness
+- Physical & Mental Health: Sleep, Stress Management, Brain Health
+- Fitness & Performance: Plyometrics, Strength Training of Kids
+- Parenting: Sports, training, parenting in general
+- Wellness & Happiness: Stress Management
